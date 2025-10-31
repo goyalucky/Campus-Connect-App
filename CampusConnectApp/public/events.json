@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Talk: AI in 2025",
+    "category": "Talk",
+    "date": "2025-11-15T15:00:00Z",
+    "description": "A deep-dive into state-of-the-art AI research and industry trends.",
+    "location": "Auditorium A",
+    "organizer": "Computer Science Club"
+  },
+  {
+    "id": 2,
+    "name": "Robotics Workshop",
+    "category": "Workshop",
+    "date": "2025-11-20T10:00:00Z",
+    "description": "Hands-on sessions building mini robots and learning control basics.",
+    "location": "Lab 3",
+    "organizer": "Robotics Club"
+  },
+  {
+    "id": 3,
+    "name": "Cultural Night",
+    "category": "Cultural",
+    "date": "2025-12-01T18:30:00Z",
+    "description": "Music, dance, food stalls and talent showcases from across campus.",
+    "location": "Main Grounds",
+    "organizer": "Student Affairs"
+  },
+  {
+    "id": 4,
+    "name": "Career Fair 2025",
+    "category": "Fair",
+    "date": "2025-11-28T09:00:00Z",
+    "description": "Meet companies hiring for internships and full-time roles.",
+    "location": "Convention Hall",
+    "organizer": "Placement Cell"
+  },
+  {
+    "id": 5,
+    "name": "Yoga Morning",
+    "category": "Health",
+    "date": "2025-11-10T06:00:00Z",
+    "description": "Sunrise yoga session for beginners and intermediates.",
+    "location": "Sports Complex",
+    "organizer": "Sports Club"
+  },
+  {
+    "id": 6,
+    "name": "Photography Exhibition",
+    "category": "Exhibition",
+    "date": "2025-11-18T11:00:00Z",
+    "description": "A gallery showcasing creative photography by students and faculty.",
+    "location": "Art Gallery Hall",
+    "organizer": "Media Society"
+  },
+  {
+    "id": 7,
+    "name": "Hackathon 2025",
+    "category": "Competition",
+    "date": "2025-12-05T09:00:00Z",
+    "description": "A 24-hour coding marathon to solve real-world challenges.",
+    "location": "Innovation Hub",
+    "organizer": "Coding Club"
+  },
+  {
+    "id": 8,
+    "name": "Music Fest: Rhythm Reloaded",
+    "category": "Concert",
+    "date": "2025-11-30T19:00:00Z",
+    "description": "A live concert featuring campus bands and guest artists.",
+    "location": "Open Air Theatre",
+    "organizer": "Music Club"
+  },
+  {
+    "id": 9,
+    "name": "Art & Craft Workshop",
+    "category": "Workshop",
+    "date": "2025-12-03T14:00:00Z",
+    "description": "Learn to create eco-friendly art using everyday materials.",
+    "location": "Design Studio",
+    "organizer": "Fine Arts Club"
+  },
+  {
+    "id": 10,
+    "name": "Blood Donation Drive",
+    "category": "Social",
+    "date": "2025-11-25T09:30:00Z",
+    "description": "Donate blood and help save lives in collaboration with Red Cross.",
+    "location": "Medical Centre",
+    "organizer": "NSS Unit"
+  },
+  {
+    "id": 11,
+    "name": "Gaming Tournament",
+    "category": "Competition",
+    "date": "2025-12-07T13:00:00Z",
+    "description": "Compete in popular eSports games and win exciting prizes.",
+    "location": "IT Block Lab 5",
+    "organizer": "E-Gaming Club"
+  },
+  {
+    "id": 12,
+    "name": "Entrepreneurship Meetup",
+    "category": "Seminar",
+    "date": "2025-12-02T10:30:00Z",
+    "description": "Panel discussion with successful startup founders and investors.",
+    "location": "Seminar Hall 2",
+    "organizer": "E-Cell"
+  },
+  {
+    "id": 13,
+    "name": "Science Quiz Bowl",
+    "category": "Competition",
+    "date": "2025-11-22T11:00:00Z",
+    "description": "Test your scientific knowledge and teamwork in this quiz event.",
+    "location": "Room 204, Science Block",
+    "organizer": "Science Association"
+  },
+  {
+    "id": 14,
+    "name": "Drama Night: Campus Chronicles",
+    "category": "Cultural",
+    "date": "2025-12-08T18:00:00Z",
+    "description": "A series of short plays written and performed by students.",
+    "location": "Auditorium B",
+    "organizer": "Drama Club"
+  },
+  {
+    "id": 15,
+    "name": "Startup Pitch Battle",
+    "category": "Business",
+    "date": "2025-12-10T16:00:00Z",
+    "description": "Students present their startup ideas to a panel of judges.",
+    "location": "Conference Room 1",
+    "organizer": "Innovation Cell"
+  }
+]
