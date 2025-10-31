@@ -3,8 +3,6 @@
 🚀 **Campus Connect App** is a mobile application built using **React Native** that allows students to easily explore, register, and manage campus events.  
 It’s designed to enhance student engagement by providing an intuitive and interactive event management experience — all in one place.
 
-🔗 **Live Demo:** [Campus Connect App on Vercel](https://campus-connect-app-gules.vercel.app/home)
-
 ---
 
 ## 📱 Features
