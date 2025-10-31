@@ -52,16 +52,4 @@ It’s designed to enhance student engagement by providing an intuitive and inte
 
 ---
 
-## 📂 Project Structure
-
-CampusConnectApp/
-├── src/
-│ ├── components/ # Reusable UI components (EventCard, SearchBar, etc.)
-│ ├── screens/ # App screens (Home, EventDetails, RegisteredEvents)
-│ ├── navigation/ # Stack & Tab navigation setup
-│ ├── assets/ # Images, icons, and static resources
-│ └── utils/ # Helper functions and constants
-├── App.js # Entry point of the app
-├── package.json # Project dependencies and scripts
-└── README.md # Project documentation
 
